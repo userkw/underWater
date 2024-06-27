@@ -1,0 +1,42 @@
+{
+  "name": "Image Processing Frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.14.19",
+    "@mui/material": "^5.14.19",
+    "@mui/styles": "^5.15.16",
+    "@types/react-beautiful-dnd": "^13.1.7",
+    "@uploadthing/react": "^6.5.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.4.5",
+    "konva": "^9.3.6",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18",
+    "react-excel-renderer": "^1.1.0",
+    "react-hot-toast": "^2.4.1",
+    "react-konva": "^18.2.10",
+    "react-spinners": "^0.13.8",
+    "uploadthing": "^6.10.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
