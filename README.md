@@ -2,15 +2,15 @@ UnderWater
 
 UnderWater helps make underwater photos clearer and more colorful. Users can upload photos, enhance them with filters, and see the original and enhanced photos side-by-side.
 
-
+![UnderWater App Screenshot](link-to-your-screenshot)
 
 Introduction
 
 UnderWater assists marine biologists, underwater photographers, and researchers by enhancing underwater images.
 
-Deployed Project: [link-to-your-deployed-project]
- LinkedIn: https://www.linkedin.com/in/kawthar-e-1889b9318/
- final project blog article: https://medium.com/@user.kw/project-blog-underwater-filters-2756997afc7e
+Deployed Project: [link-to-your-deployed-project]  
+LinkedIn: https://www.linkedin.com/in/kawthar-e-1889b9318/  
+Final Project Blog Article: https://medium.com/@user.kw/project-blog-underwater-filters-2756997afc7e
 
 Installation
 
@@ -47,6 +47,12 @@ Technologies Used
 - Backend: Python, Flask
 - Image Processing: OpenCV
 
+Technical Details
+
+The main challenge was to improve underwater photos by fixing color and reducing noise. This involved extensive research and experimentation with various image filters using OpenCV. I read research papers, sought help online, and tested multiple filters to achieve the best results.
+
+The filters had to balance color correction and noise reduction effectively. I adjusted the parameters of the filters and received feedback to improve them continuously. This iterative process led to the creation of filters that significantly enhance the clarity and color of underwater photos.
+
 Contributing
 
 1. Fork the repository.
@@ -61,7 +67,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 About Me
 
-I am a full-stack developer with a special interest in image processing and web applications.
+I am a full-stack developer with a special interest in image processing and web applications. This project was a great learning experience, and it helped me develop my skills in image processing and web development. I enjoy solving real-world problems with technology and am always looking for new challenges.
 
 Links
 
