@@ -2,13 +2,12 @@ UnderWater
 
 UnderWater helps make underwater photos clearer and more colorful. Users can upload photos, enhance them with filters, and see the original and enhanced photos side-by-side.
 
-![UnderWater App Screenshot](link-to-your-screenshot)
 
 Introduction
 
 UnderWater assists marine biologists, underwater photographers, and researchers by enhancing underwater images.
 
-Deployed Project: [link-to-your-deployed-project]  
+Deployed Project: https://www.youtube.com/watch?v=6QXPURvZmSg
 LinkedIn: https://www.linkedin.com/in/kawthar-e-1889b9318/  
 Final Project Blog Article: https://medium.com/@user.kw/project-blog-underwater-filters-2756997afc7e
 
@@ -73,4 +72,4 @@ Links
 
 - GitHub: https://github.com/userkw
 - LinkedIn: https://www.linkedin.com/in/kawthar-e-1889b9318/
-- Deployed Project: [link-to-your-deployed-project]
+- Deployed Project: https://www.youtube.com/watch?v=6QXPURvZmSg
